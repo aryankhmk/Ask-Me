@@ -1,16 +1,9 @@
 # ask_me
 
-A new Flutter project.
+Ask any Yes or No based question and get it answered by this magical tool! A fun little project that answers your silly questions.
 
-## Getting Started
+This is a project that is created using Flutter. I have launched it on the web version by using firebase for hosting. 
 
-This project is a starting point for a Flutter application.
+You can test out this project through this site: https://answer-teller.web.app/#/
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
